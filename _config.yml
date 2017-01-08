@@ -1,0 +1,32 @@
+typography_spectrum: 0.4621895846458023
+color:
+  brandStrength: 0.383889021198588
+  lightness: 0.8692527868092466
+  saturation: 0.7161330604136432
+  rhythmicContrast: 0.5295998067178275
+  brandColors:
+    - '#25064D'
+    - '#36175E'
+    - '#553285'
+    - '#7B52AB'
+    - '#9768D1'
+layout_spectrum: 0.9960720571736335
+author:
+  name: テスト
+  email: テストテストとともに
+  url: 'http://givemethe.link/'
+name: giveitago
+navigation:
+  - id: 0f27ddc6-2b37-4a6c-92ba-7c07860f3ae6
+    name: rusko
+    type: content
+title: give me the link
+content: []
+description: just give it a go
+purpose:
+  - type: internal
+    label: we'll make it happen like you just don't know
+    item: 0f27ddc6-2b37-4a6c-92ba-7c07860f3ae6
+github: true
+content_rating:
+  adult: false
