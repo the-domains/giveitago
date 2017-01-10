@@ -17,8 +17,8 @@ author:
   url: 'http://givemethe.link/'
 name: giveitago
 navigation:
-  - id: 0f27ddc6-2b37-4a6c-92ba-7c07860f3ae6
-    name: rusko
+  - name: rusko
+    id: 0f27ddc6-2b37-4a6c-92ba-7c07860f3ae6
     type: content
 title: give me the link
 content: []
@@ -27,6 +27,9 @@ purpose:
   - type: internal
     label: we'll make it happen like you just don't know
     item: 0f27ddc6-2b37-4a6c-92ba-7c07860f3ae6
+  - type: contact
+    url: 'tel:2222222'
+    label: Call 2222222
 github: true
 content_rating:
   adult: false
